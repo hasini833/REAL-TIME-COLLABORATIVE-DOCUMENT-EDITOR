@@ -144,3 +144,6 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+## OUTPUT:
+<img width="1855" height="986" alt="Image" src="https://github.com/user-attachments/assets/c8580295-6958-4157-8175-08c4ab1cd923" />
