@@ -135,6 +135,11 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Open a Pull Request.
 
+## 🙋‍♂️ Developed By
+
+**Hasini**
+📧 Email: [hasinibiyyala833@gmail.com](mailto:hasinibiyyala833@gmail.com)
+
 
 ## License
 
