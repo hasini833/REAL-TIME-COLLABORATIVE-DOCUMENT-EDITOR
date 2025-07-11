@@ -1,3 +1,17 @@
+ #* Real-Time Collaborative Document Editor 
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: B HASINI
+
+*INTERN ID*: CT06DH1201
+
+*DOMAIN*: Full Stack Web Development
+
+*DURATION*: 6 WEEEKS
+
+*MENTOR*:NEELA SANTOSH
+
 # Real-Time Collaborative Document Editor
 
 A feature-rich, real-time collaborative document editor built with Next.js (React), designed for seamless multi-user editing with modern UI and smooth animations.
@@ -77,15 +91,6 @@ simple-task-manager/
 └── README.md               # This file
 ```
 
-Okay, I can provide a `README.md` file for a generic "Task Management Application". This README will describe a simple application designed to help users manage their tasks.
-
-If you meant something different (e.g., how the *collaborative editor* can be used for task management, or a README for a specific task you're working on), please clarify!
-
-Here's a `README.md` for a "Simple Task Manager":
-
-```markdown project="Simple Task Manager" file="README.md"
-...
-```
 
 3. **Install dependencies:**
 
@@ -118,25 +123,6 @@ The application will typically open in your browser at `http://localhost:5173` (
 4. **Filter Tasks**: Use the "All", "Active", and "Completed" buttons at the bottom to filter your task list.
 
 
-## Project Structure
-
-```plaintext
-simple-task-manager/
-├── public/                 # Static assets
-├── src/
-│   ├── App.tsx             # Main application component
-│   ├── index.css           # Global styles
-│   ├── main.tsx            # Entry point
-│   ├── components/
-│   │   ├── TaskItem.tsx    # Component for individual tasks
-│   │   └── TaskList.tsx    # Component for displaying the list of tasks
-│   └── hooks/
-│       └── useTasks.ts     # Custom hook for task logic and local storage
-├── package.json            # Project dependencies and scripts
-├── tailwind.config.js      # Tailwind CSS configuration
-├── vite.config.ts          # Vite build configuration
-└── README.md               # This file
-```
 
 ## Contributing
 
